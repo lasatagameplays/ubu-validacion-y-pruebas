@@ -4,7 +4,7 @@ En este repositorio se encuentra el conjunto completo de proyectos y resolucione
 
 👥 **Autores:**
 * **Rubén Castañeda Matute** - ([@lasatagameplays](https://github.com/lasatagameplays))
-* **Ariadna Ortega Fernández**
+* **Ariadna Ortega Fernández** - ([@Ariadna-7](https://github.com/Ariadna-7))
 
 ---
 
@@ -41,7 +41,7 @@ La asignatura se compone de un total de 4 proyectos (2 practicos y 2 teoricos), 
 
 ## ⚙️ Requisitos para la Ejecución
 
-* Tener instalado Visual Studio 2026.
+* Tener instalado Visual Studio 2026 Insiders.
 
 ## 💻 Entorno de Pruebas (Mi Setup)
 Aquí dejo mi equipo, en el cual funcionan al 100% los programas y entornos:
@@ -97,12 +97,6 @@ El objetivo de este tercer proyecto es ---
 * **Evaluador:** Pedro Renedo Fernandez
 * **Comentario del profesor:** "---"
 * **Autores:** Rubén Castañeda Matute y Ariadna Ortega Fernández.
-
-### 🚀 Instrucciones de Ejecución
-Para visualizar y explorar el proyecto, sigue estos pasos:
-1. --
-2. --
-3. --
 
 ---
 
